@@ -1,1 +1,1 @@
-include ':app', ':portalrouter', ':annotationprocess'
+include ':portalrouter', ':portalrouter-compiler', ':portalrouter-annotation', ':example'
